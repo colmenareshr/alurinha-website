@@ -39,6 +39,26 @@
   width: 23%;
 }
 
+.videoSobre .container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.videoSobre-sobre {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 2;
+  text-align: center;
+}
+
+.videoSobre-sobre-list {
+  flex-grow: 1;
+}
+
+.videoSobre-video {
+  flex-grow: 1;
+}
+
 /*Mobile*/
 @media(max-width: 768px) {
 
