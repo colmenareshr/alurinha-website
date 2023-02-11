@@ -76,4 +76,8 @@
     width: 100%;
     margin: 0;
   }
+
+  .cabecalhoPrincipal-nav-link-app {
+    order: -1;
+  }
 } 
